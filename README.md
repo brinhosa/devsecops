@@ -3,18 +3,6 @@ Document from: https://creativefusion.medium.com/massive-resources-learning-path
 
 **Massive Resources, Learning Paths, and Collection for DevSecOps**
 
-[![CreativeFusion](Massive%20Resources_files/image001.gif)](https://creativefusion.medium.com/?source=post_page-----cacfda8f17be-----------------------------------)
-
-[](https://creativefusion.medium.com/?source=post_page-----cacfda8f17be-----------------------------------)
-
-[CreativeFusion](https://creativefusion.medium.com/?source=post_page-----cacfda8f17be-----------------------------------)
-
-[](https://creativefusion.medium.com/massive-resources-learning-paths-and-collection-for-devsecops-cacfda8f17be?source=post_page-----cacfda8f17be-----------------------------------)
-
-[9 hours ago-12 min read](https://creativefusion.medium.com/massive-resources-learning-paths-and-collection-for-devsecops-cacfda8f17be?source=post_page-----cacfda8f17be-----------------------------------)
-
-![](Massive%20Resources_files/image003.jpg)
-
 Inspired by the awesome-\* trend on GitHub. This is a collection of documents, presentations, videos, training materials, tools, services, and general leadership that support the DevSecOps mission. These are the essential building blocks and tidbits that can help you to arrange for a DevSecOps experiment or to help you build out your own DevSecOps program and anything you need, **all learning paths**.
 
 We intend for it to be an awesome list that grows and changes as the community learns and improves how DevSecOps is implemented and adopted. To be included in this list, the information, tools, vendors, or initiative must provide for Free or Open Source capabilities that help with the DevSecOps mission. Links that lead to a commercial aspect are noted with a (P).
